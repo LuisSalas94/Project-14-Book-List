@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://unruffled-hoover-0895cb.netlify.app/)
+[Live Demo Link](https://luissalas94.github.io/Project-14-Book-List/)
 
 ## Author
 
